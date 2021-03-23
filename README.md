@@ -3,13 +3,11 @@
  *by Arzu ISIK TOPBAS* 
  
 ---
-This is the first assignment that I was using the concepts you've learned to complete **two** Python activities, PyBank and PyRamen. 
+This is the first assignment that I was using the concepts I've learned to complete **two** Python activities, PyBank and PyRamen. 
 Both activities present a real-world situation in which my Python skills came in handy. 
 
 
 ## PyBank
-
-![Revenue](https://studentweb.kennesaw.edu/~htran24/images/money.png)
 
 In this activity, I were tasked with creating a Python-Pandas script for analyzing the financial records of my company. I was provided with a financial dataset in this file: [budget_data.csv](PyBank/budget_data.csv). This dataset was composed of two columns, Date and Profit/Losses. 
 
