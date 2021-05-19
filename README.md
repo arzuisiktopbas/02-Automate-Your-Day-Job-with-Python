@@ -1,9 +1,9 @@
-## Homework#2 Automate Your Day Job with Python
+## Automate Your Day Job with Python
 
  *by Arzu ISIK TOPBAS* 
  
 ---
-This is the first assignment that I was using the concepts I've learned to complete **two** Python activities, PyBank and PyRamen. 
+I was using the concepts I've learned to complete **two** Python activities, PyBank and PyRamen. 
 Both activities present a real-world situation in which my Python skills came in handy. 
 
 
